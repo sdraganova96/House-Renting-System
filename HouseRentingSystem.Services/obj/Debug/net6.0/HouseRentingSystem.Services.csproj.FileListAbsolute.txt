@@ -1,0 +1,12 @@
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.deps.json
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.runtimeconfig.json
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/sisi/Desktop/Back-endTestAutomation/Exercises/12-Continuous-Integration-II-Resources/02-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
